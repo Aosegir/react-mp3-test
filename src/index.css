@@ -66,3 +66,21 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* -------------- */
+/* -- MY STUFF -- */
+/* -------------- */
+
+.location {
+  height: 250px;
+  width: 400px;
+  border: 1px solid black;
+  margin: 15px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.location-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}

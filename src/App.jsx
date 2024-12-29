@@ -2,8 +2,7 @@
 import Data from './Data.jsx';
 import './index.css';
 
-function App() {
-  console.log(Data);
+function Locations() {
   return (
     <>
       <h1>Item List</h1>
@@ -20,6 +19,12 @@ function App() {
         })}
       </div>
     </>
+  )
+};
+
+function App() {
+  return (
+    <Locations />
   )
 }
 

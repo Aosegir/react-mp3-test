@@ -3,7 +3,8 @@ const Data = [
         name: "90s Action Movie City",
         events: [
             {
-                name: "90s car chases"
+                name: "90s car chases",
+                color: "#bfbfbf",
             },
             {
                 name: "90s sudden explosions"
@@ -122,6 +123,132 @@ const Data = [
             },
             {
                 name: "International relations"
+            },
+        ],
+    },
+    {
+        name: "Carnival",
+        events: [
+            {
+                name: "House of mirrors"
+            },
+            {
+                name: "Carnival games"
+            },
+            {
+                name: "Freak show"
+            },
+        ],
+    },
+    {
+        name: "Casino",
+        events: [
+            {
+                name: "Chance: roulette!"
+            },
+            {
+                name: "...THE FORBIDDEN GAMES"
+            },
+            {
+                name: "Skill: poker!"
+            },
+        ],
+    },
+    {
+        name: "Caves",
+        events: [
+            {
+                name: "Look for ore"
+            },
+            {
+                name: "Rescue trapped people"
+            },
+            {
+                name: "Go spelunking"
+            },
+        ],
+    },
+    {
+        name: "Charming Village",
+        events: [
+            {
+                name: "Meet the locals"
+            },
+            {
+                name: "Join the local celebration"
+            },
+            {
+                name: "Visit the shady landmark"
+            },
+        ],
+    },
+    {
+        name: "Cheap Motel",
+        events: [
+            {
+                name: "The room that's just a hole in the floor"
+            },
+            {
+                name: "The haunted room where someone was totally murdered"
+            },
+            {
+                name: "The room with only one bed"
+            },
+        ],
+    },
+    {
+        name: "Circus",
+        events: [
+            {
+                name: "Jugglers"
+            },
+            {
+                name: "Magicians"
+            },
+            {
+                name: "Aerialists"
+            },
+        ],
+    },
+    {
+        name: "City Under Attack",
+        events: [
+            {
+                name: "Fight the kaiju"
+            },
+            {
+                name: "Evacuate the city"
+            },
+            {
+                name: "Accept your fate"
+            },
+        ],
+    },
+    {
+        name: "Con",
+        events: [
+            {
+                name: "Attend a fandom meeting"
+            },
+            {
+                name: "Walk the floor"
+            },
+            {
+                name: "Join a gaming tournament"
+            },
+        ],
+    },
+    {
+        name: "Cryptic Tech Company",
+        events: [
+            {
+                name: "True ai"
+            },
+            {
+                name: "The metaverse"
+            },
+            {
+                name: "The \"algorithm\""
             },
         ],
     },

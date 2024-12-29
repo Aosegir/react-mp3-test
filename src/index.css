@@ -72,8 +72,8 @@ button:focus-visible {
 /* -------------- */
 
 .location {
-  height: 250px;
-  width: 400px;
+  height: auto;
+  max-width: 22vw;
   border: 1px solid black;
   margin: 15px;
   padding: 10px;
